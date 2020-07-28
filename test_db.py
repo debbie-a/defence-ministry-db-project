@@ -122,6 +122,7 @@ def test_50_students(new_db: DataBase) -> None:
     results = students.query_table([SelectionCriteria('First', '=', 'Jane')])
     assert len(results) == 1
     assert results[0]['First'] == 'Jane'
+    students.create_index('First')
 
 
 def test_performance(new_db: DataBase) -> None:
