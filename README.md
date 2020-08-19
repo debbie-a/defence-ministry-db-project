@@ -1,6 +1,4 @@
-# ministry-of-defence-project
-# database-exercise
+# Ministry of Defence Project - Unit 8200
+## Relational Database implementation
 
-#chose to implement the Document DB
-#used json files to store the DB tables on disk
-
+Relational DB. Provides tables creation. insert, update and delete rows and tables. Supports queries etc.
