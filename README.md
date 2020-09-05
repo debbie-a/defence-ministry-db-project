@@ -1,4 +1,7 @@
 # 8200 - Ministry of Defence Project
 ## Database Implementation
 
-Non-Relational DB. Provides tables creation. insert, update and delete rows and tables. Supports queries etc.
+Project to implement one of the DB types.
+This is a Non-Relational DB. 
+Provides table creation, insert, update and delete. 
+Supports queries etc.
