@@ -3,6 +3,8 @@
 
 Project to implement one of the DB types.
 
-This is a Non-Relational DB. 
+This is an implemention of the Non-Relational Document DB. 
+Implemented with Json files.
+
 Provides table creation, insert, update and delete. 
 Supports queries etc.
